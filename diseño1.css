@@ -1,0 +1,29 @@
+body{
+/*background-color:  #2471A3 ;*/
+background: -webkit-linear-gradient(#3c6da0, #e0e0ea);
+}
+form{
+border-bottom-style: ridge;
+border-color: black;
+width  : 500px;
+height : 450px;
+margin : 0 auto;
+background: white  ;
+
+border-spacing: 10px 50px;
+padding: 0px 80px 900px 80px;
+border-radius: 20px;
+align-content: center;
+}
+footer{
+  color: #1A5276;
+}
+svg{
+  align-content: center;
+}
+h1{
+  color:#2471A3;
+}
+h2{
+  color:#2471A3;
+}

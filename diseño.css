@@ -1,0 +1,27 @@
+body{
+/*background-color:  #2471A3 ;
+/*background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */
+background: -webkit-linear-gradient(#3c6da0, #e0e0ea);
+}
+form{
+border: 2px dotted #999;
+border-color: black;
+width  : 500px;
+height : 450px;
+margin : 0 auto;
+background: white;
+
+border-spacing: 10px 50px;
+padding: 50px 80px 650px 70px;
+border-radius: 20px;
+align-content: center;
+}
+footer{
+  color: #1A5276;
+}
+h1{
+  color:#2471A3;
+}
+h2{
+  color:#2471A3;
+}
